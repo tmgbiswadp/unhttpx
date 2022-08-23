@@ -12,5 +12,5 @@ Usage example:
 Install:
 
 ```
-▶ go install github.com/tomnomnom/waybackurls@latest
+▶ go install github.com/tmgbiswadp/unhttpx@latest
 ```
